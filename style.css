@@ -5,12 +5,12 @@ h2 {
     padding: 0;
 }
 body {
-    background: #039be5;
+    background: #e5037f;
     font-family: 'Sunflower', sans-serif;
 }
 h1 {
     padding: 10px;
-    background: #ffcc00;
+    background: #fac904;
 }
 /*---------------------------*/ /* Read Users */ /*---------------------------*/
 #userList {
@@ -19,7 +19,7 @@ h1 {
     width: 200px;
     float: left;
     margin: 10px;
-    border: 1px solid #4fc3fc;
+    border: 1px solid #fc4fd1;
 }
 #userList h2 {
     padding: 10px;
@@ -28,13 +28,13 @@ h1 {
 }
 #userList li {
     padding: 5px 10px;
-    border-top: 1px solid #4fc3fc;
+    border-top: 1px solid #fc4fd1;
     cursor: pointer;
     color: white;
     font-style: italic;
 }
 #userList li:hover {
-    background: #4fc3fc;
+    background: #fc4fd1;
 }
 #userDetail {
     float: left;
@@ -42,6 +42,6 @@ h1 {
     margin: 10px;
     margin-left: 0;
     padding: 10px;
-    border: 1px solid #4fc3fc;
+    border: 1px solid #fc4fd1;
     color: white;
 }
